@@ -24,7 +24,7 @@ const Footer = () => {
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <img src={logo} alt="TrillionApp Logo" className="h-10 w-auto object-contain" />
-              <span className="text-2xl font-bold text-white">TrillionApp</span>
+              <span className="text-2xl font-bold text-white">TrillionApp TECHNOLOGY</span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               Our team of passionate and knowledgeable tech experts is dedicated to providing you with an unmatched user experience.</p>
