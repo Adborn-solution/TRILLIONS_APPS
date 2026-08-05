@@ -23,8 +23,8 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-4">
-              <img src={logo} alt="TrillionApp Logo" className="h-10 w-auto object-contain" />
-              <span className="text-2xl font-bold text-white">TrillionApp TECHNOLOGY</span>
+              <img src={logo} alt="TrillionApps Logo" className="h-10 w-auto object-contain" />
+              <span className="text-2xl font-bold text-white">Trillion Apps Technology</span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               Our team of passionate and knowledgeable tech experts is dedicated to providing you with an unmatched user experience.</p>
@@ -76,7 +76,7 @@ const Footer = () => {
                 <svg className="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <p>hr-manager@trillionappstechnology.com</p>
+                <p>contact@trillionappstechnology.com</p>
               </li>
             </ul>
           </div>

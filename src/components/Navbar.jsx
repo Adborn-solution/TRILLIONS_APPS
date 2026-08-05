@@ -49,7 +49,7 @@ const Navbar = () => {
                   <rect x="2" y="4" width="20" height="16" rx="2" />
                   <path d="M2 7l10 7 10-7" />
                 </svg>
-                hr-manager@trillionappstechnology.com
+                contact@trillionappstechnology.com
               </div>
               <div className="flex items-center gap-2 text-[#bbb]">
                 <svg
