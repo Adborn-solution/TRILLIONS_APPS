@@ -51,6 +51,23 @@ const Navbar = () => {
                 </svg>
                 hr-manager@trillionappstechnology.com
               </div>
+              <div className="flex items-center gap-2 text-[#bbb]">
+                <svg
+  className="h-4 w-4"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+>
+  <circle cx="12" cy="13" r="8" />
+  <path d="M12 9v4l3 2" />
+  <path d="M9 2h6" />
+  <path d="M12 2v3" />
+</svg>
+                24/7 Available 
+              </div>
 
               
             </div>
