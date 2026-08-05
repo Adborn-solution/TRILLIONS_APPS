@@ -49,16 +49,10 @@ const Navbar = () => {
                   <rect x="2" y="4" width="20" height="16" rx="2" />
                   <path d="M2 7l10 7 10-7" />
                 </svg>
-                manager@trillionappstechnology.com
+                hr-manager@trillionappstechnology.com
               </div>
 
-              <div className="flex items-center gap-2 text-[#bbb]">
-                <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <circle cx="12" cy="12" r="10" />
-                  <path d="M12 6v6l4 2" />
-                </svg>
-                Monday to Friday 9.00AM to 6.00PM
-              </div>
+              
             </div>
 
             <div className="ml-auto flex items-center">
